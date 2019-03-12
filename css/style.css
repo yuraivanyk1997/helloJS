@@ -3,3 +3,6 @@ p{
 	background: black;
 	padding: 10px;
 }
+span{
+	text-decoration: underline;
+}
